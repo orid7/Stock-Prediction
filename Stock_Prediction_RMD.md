@@ -1,6 +1,6 @@
 Stocks Market Prediction-classification in R
 ================
-Ori Dahari
+Ori Dahari  
 Feb 2018
 
 Abstract:
